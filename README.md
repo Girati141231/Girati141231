@@ -1,48 +1,40 @@
-<h1 align="center">Hi there 👋, I'm [Keerati Ammathin]</h1>
+<h1 align="center">Hi there 👋, I'm Keerati Ammathin</h1>
 
 🎓 I'm a Computer Science student at Rangsit University  
-💻 Aspiring Full-Stack Developer who’s ready to dive into real-world projects  
-🚀 Passionate about learning new technologies, teamwork, and building cool stuff  
-😅 Not super confident yet... but I'm ready to go all in!
+🔍 Aspiring Software Tester with a strong interest in software quality and user experience  
+🧪 Passionate about manual testing, test planning, and ensuring software reliability  
+🤝 Enjoy working with teams, analyzing systems, and constantly improving my testing skills
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech & Testing Tools
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Flutter  
-**Backend:** Node.js, Express.js, PHP, SQL  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, VS Code, Figma, Trello, XAMPP, NetBeans, DBeaver  
-**Others:** RESTful API, JWT, OAuth, Python, Java, C++, Dart
+**Testing:** Manual Testing, Functional Testing, Regression Testing, API Testing (Postman)  
+**Tools:** Trello,  Git/GitHub, Google Sheets, Visual Studio Code  
+**Concepts:** SDLC, STLC, Defect Life Cycle, Test Case Design, Bug Reporting  
+**Languages (basic knowledge):** Python, Java, C++, JavaScript
 
 ---
 
-### 📌 Projects Highlight
+### 📌 Project Highlights
 
-- 🏪 Restaurant Reservation System (Java, NetBeans)  
-- 🏨 Hotel Booking System (MS Access)  
-- 🧥 Clothing Rental System (MS Access)  
-- 🤖 PPE Detection with Deep Learning (Helmet & Vest on construction site)  
-- 🐍 Snake Game (Processing)  
-- 🌱 IoT Smart Plant Watering  
-- 🎁 Mystery ETH Web App  
-- 🧾 Bill Splitter (Receipt Scanner Web App)  
-- 🧑‍💼 Internship Finder Platform (for students & companies)
+- ✅ **Agoda Feature Testing Simulation** – Practiced writing Test Scenarios & Test Cases for Register/Login, Search, and Cart  
+- ✅ **Software Engineering Group Project** – Created Test Plan, Test Case, and received real feedback from testers  
 
 ---
 
 ### 📚 Activities
 
-- Participated in IoT seminar & company visit at NECTEC  
-- Helped organize university Open House & showcased student projects  
-- TA for Programming I – supported teaching and guided first-year students
+- Participated in university Software Engineering presentations and peer-testing events  
 
 ---
 
 ### 📫 Contact Me
 
-- ✉️ Email: Girati9999@gmail.com 
+- ✉️ Email: Girati9999@gmail.com  
+- 🔗 GitHub: [github.com/Girati141231](https://github.com/Girati141231)
 
 ---
 
-*“Still learning. Still building. Still dreaming.”*
+*“Still learning. Still testing. Still improving.”*
+
